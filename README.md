@@ -72,3 +72,6 @@ There is also a perl script that can plot a diagram for the output of LeTRS.pl.<
 
 #### 4. Customized leader-TRS junctions and SARS-CoV-2 or other coronavirus genomes as reference sequences.<br> 
 Please the see the "readme.txt" file in the "making_reference_folder_example" folder.<br>
+
+#### citation 
+Xiaofeng Dong, Rebekah Penrice-Randal, Hannah Goldswain, Tessa Prince, Nadine Randle, Javier Salguero, Julia Tree, Ecaterina Vamos, Charlotte Nelson, James P. Stewart, ISARIC4C Investigators, COVID-19 Genomics UK (COG-UK) Consortium, Malcolm G. Semple, J. Kenneth Baillie, Peter J. M. Openshaw, Lance Turtle, David A. Matthews, Miles W. Carroll, Alistair C. Darby, Julian A. Hiscox. bioRxiv 2021.03.03.433753; doi: https://doi.org/10.1101/2021.03.03.433753 
